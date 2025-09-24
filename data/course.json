@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate",
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "legacy_uid": "1d715424-634c-aea3-c760-3ace4ef6fc98",
+  "instructors": {
+    "content": [
+      "1d6e1725-27ea-224e-988e-8add2f1814bf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "20552337-f80b-0369-f41a-4a1e0366c17c",
+    "website": "17-158-political-economy-of-western-europe-spring-2003"
+  },
+  "course_title": "Political Economy of Western Europe",
+  "course_description": "Examines role of European states in postwar period of rapid economic growth and current crisis. Includes analysis of different state traditions (\"etatist,\" liberal, authoritarian); government's role in decline of some economies and rise of others; why and where Keynesianism, indicative planning, and state enterprises were introduced; alternative conceptions of contemporary economic problems (new international division of labor? too few producers? oil shock?); and of policies to deal with them (industrial policy? monetarism? protectionism?).\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.158",
+  "course_image_thumbnail": {
+    "content": "a0fe22e9-61ba-8060-d446-2902bc3b6b8f",
+    "website": "17-158-political-economy-of-western-europe-spring-2003"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "7e9385d3-a8c5-41e2-b1a9-6e6ad4a0c830",
+  "site_short_id": "17.158-spring-2003",
+  "site_url_path": "courses/17-158-political-economy-of-western-europe-spring-2003",
+  "title": "Course Metadata"
+}
